@@ -1,0 +1,27 @@
+_repo: An-Anarchist-Woman_26719
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hapgood, Hutchins
+    birthdate: 1869
+    deathdate: 1944
+    gutenberg_agent_id: '32202'
+    url: http://www.gutenberg.org/2009/agents/32202
+description: ''
+gutenberg_issued: '2008-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26719'
+  lccn: 09012198
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Anarchists -- United States'
+- !lcc 'PS'
+title: An Anarchist Woman
+url: http://www.gutenberg.org/ebooks/26719
